@@ -1,1 +1,1 @@
-# WSD-Fuzzy-Borda
+# Word Sense Disambiguation (wsd) - Fuzzy-Borda
